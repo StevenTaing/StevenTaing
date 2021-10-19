@@ -29,6 +29,6 @@ I am Taing Heangleng aka Steven, from Cambodia. I am a coding hobbyist and inter
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 ### 📫 Connect with me:
-[![Email](https://img.shields.io/badge/-taing.steven@gmail.com-05122A?style=flat&logo=Gmail&logoColor=EA4335)](mailto:taing.steven@gmail.com)&nbsp;
-[![Facebook](https://img.shields.io/badge/-@taing.steven-05122A?style=flat&logo=Facebook&logoColor=1877F2)](https://www.facebook.com/taing.steven/)&nbsp;
-[![Instagram](https://img.shields.io/badge/-@heanglengtaing-05122A?style=flat&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/heanglengtaing/)
+[![Email](https://img.shields.io/badge/-taing.steven@gmail.com-ffffff?style=flat&logo=Gmail&logoColor=EA4335)](mailto:taing.steven@gmail.com)&nbsp;
+[![Facebook](https://img.shields.io/badge/-@taing.steven-ffffff?style=flat&logo=Facebook&logoColor=1877F2)](https://www.facebook.com/taing.steven/)&nbsp;
+[![Instagram](https://img.shields.io/badge/-@heanglengtaing-ffffff?style=flat&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/heanglengtaing/)
