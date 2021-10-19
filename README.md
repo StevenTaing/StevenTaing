@@ -26,9 +26,9 @@ I am Taing Heangleng aka Steven, from Cambodia. I am a coding hobbyist and inter
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=4479A1)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=4169E1)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 ### 📫 Connect with me:
-![Email](https://img.shields.io/badge/-taing.steven@gmail.com-05122A?style=flat&logo=Gmail&logoColor=EA4335)&nbsp;
-![Facebook](https://img.shields.io/badge/-@taing.steven-05122A?style=flat&logo=Facebook&logoColor=1877F2)&nbsp;
-![Instagram](https://img.shields.io/badge/-@heanglengtaing-05122A?style=flat&logo=Instagram&logoColor=#E4405F)&nbsp;
+[![Email](https://img.shields.io/badge/-taing.steven@gmail.com-05122A?style=flat&logo=Gmail&logoColor=EA4335)](mailto:taing.steven@gmail.com)&nbsp;
+[![Facebook](https://img.shields.io/badge/-@taing.steven-05122A?style=flat&logo=Facebook&logoColor=1877F2)](https://www.facebook.com/taing.steven/)&nbsp;
+[![Instagram](https://img.shields.io/badge/-@heanglengtaing-05122A?style=flat&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/heanglengtaing/)
