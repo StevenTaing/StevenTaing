@@ -8,7 +8,7 @@ I am Taing Heangleng (តាំង ហៀងឡេង) aka Steven, from Cambodia
 
 - ✨ I like to explore new technologies and develop software as the solutions
 - 🎨 I am also interesting in art and music
-- 💬 I am not an IT Student; in fact, I am Bachelored in Business Administration (BBA)
+- 💬 I am Bachelored in Business Administration (BBA) and Master of Science in Information Technology (MsIT)
 - 🎡 I am a Leo
 
 ### ⚙ Languages and Tools:
