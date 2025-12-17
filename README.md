@@ -58,4 +58,4 @@ I am Taing Heangleng (តាំង ហៀងឡេង) aka Steven, from Cambodia
 [![Website](https://img.shields.io/badge/-www.creativvity.com-ffffff?style=flat&logo=Google-Chrome&logoColor=#4285F4)](https://creativvity.com)&nbsp;
 [![Email](https://img.shields.io/badge/-taing.steven@gmail.com-ffffff?style=flat&logo=Gmail&logoColor=EA4335)](mailto:taing.steven@gmail.com)&nbsp;
 [![Facebook](https://img.shields.io/badge/-@taing.steven-ffffff?style=flat&logo=Facebook&logoColor=1877F2)](https://www.facebook.com/taing.steven/)&nbsp;
-[![Instagram](https://img.shields.io/badge/-@heanglengtaing-ffffff?style=flat&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/heanglengtaing/)
+[![Instagram](https://img.shields.io/badge/-@heanglengtaing-ffffff?style=flat&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/heanglengtaing/)
